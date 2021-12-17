@@ -1,8 +1,6 @@
 # fifa-api
 
-Node.js + MySQL API for User Management, Authentication and Registration
-
-For documentation and instructions see https://jasonwatmore.com/post/2020/08/18/nodejs-mysql-simple-api-for-authentication-registration-and-user-management# fifaserver
+Node.js + MySQL API for Easports
 
 # Clonar repo con git clone https://github.com/neoxyx/fifaserver.git
 # Ir a carpeta del proyecto con cd fifaserver
